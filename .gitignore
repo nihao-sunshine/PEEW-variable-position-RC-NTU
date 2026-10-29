@@ -1,0 +1,5 @@
+results/*.csv
+results/run_archive/
+*.asv
+*.m~
+.DS_Store
