@@ -1,0 +1,6 @@
+city,weather_file,heating_start,heating_end_exclusive,insulation_mm,latitude_deg,longitude_deg,orientations_deg
+Hailar,hailae-t_air_20221001-20230930_from_Meteonorm.mat,2022-10-01,2023-05-01,131,49.2,119.7,0
+Harbin,harbin_t_air_20221020-20231019_from_Meteonorm.mat,2022-10-20,2023-04-21,113,45.75,126.65,0
+Shenyang,shenyang_t_air_20221101-20231031_from_Meteonorm.mat,2022-11-01,2023-04-01,98,41.8,123.43,0
+Taiyuan,taiyuan_t_air_20221101-20231031_from_Meteonorm.mat,2022-11-01,2023-04-01,77,37.87,112.55,0|90|180|270
+Beijing,beijing_t_air_20221115-20231114_from_Meteonorm.mat,2022-11-15,2023-03-16,77,39.9,116.4,0
